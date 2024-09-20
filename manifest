@@ -1,0 +1,9 @@
+{
+    "name": "2048 в Telegram",
+    "description": "Классическая игра 2048 интегрированная в Telegram.",
+    "platforms": ["telegram"],
+    "telegram": {
+        "bot_username": "Ваш_бот_здесь",
+        "launch_parameter": "2048_game"
+    }
+}
